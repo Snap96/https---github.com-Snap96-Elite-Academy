@@ -20,17 +20,17 @@ function Navbar() {
 								<div className="ml-10 flex items-baseline space-x-4">
 									<Link
 										activeClass="Home"
-										to="about"
+										to="/"
 										smooth={true}
 										offset={50}
 										duration={500}
-										className="cursor-pointer text-blue-600 font-semibold px-3 py-2 text-md hover:font-black"
+										className="cursor-pointer hover:bg-blue-600 text-black hover:text-white px-3 py-2 rounded-md text-sm font-medium"
 									>
 										Home
 									</Link>
 									<Link
 										activeClass="about"
-										to="about"
+										to="/about"
 										smooth={true}
 										offset={50}
 										duration={500}
@@ -40,7 +40,7 @@ function Navbar() {
 									</Link>
 									<Link
 										activeClass="Course"
-										to="Course"
+										to="/Course"
 										smooth={true}
 										offset={50}
 										duration={500}
@@ -51,7 +51,7 @@ function Navbar() {
 
 									<Link
 										activeClass="Contact"
-										to="work"
+										to="/support"
 										smooth={true}
 										offset={50}
 										duration={500}
