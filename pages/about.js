@@ -18,8 +18,11 @@ export default function about() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
-      
-      
+      <p>An education is one of the most important investments to raise socio-economic status and long-term earnings potential of an individual. It is also the gateway to having the skills to create change, organise and to operate in specific industries</p>
+      <br/>
+      <p>Our educators believe in building skills for the future and enabling students to take up careers in a volatile, uncertain, chaotic, and ambiguous world. Our education is designed to create a deep understanding of an area, supporting skills development through practical application, and challenging thinking to allow for adaptation to new possibilities.</p>
+      <br/>
+      <p>The wide selection of options gives students choice to experience learning in various modes of learning provide opportunities to working adults who need to upskill or reskill themselves via part-time learning</p>
       <schoolContent />
       <Contact />
       <Footer />
