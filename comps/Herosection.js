@@ -1,6 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import Tech1 from "../public/Tech1.jpg";
+import Link from "next/link";
 
 const Herosection = () => {
   return (
@@ -17,8 +18,9 @@ const Herosection = () => {
           <p className="text-2xl text-gray-400 mt-5 mb-10">
             We enourage and nuture the next generation of tech innovators
           </p>
+          
           <button className="border-2 border-blue-500 text-blue-400 hover:bg-blue-500 hover:shadow-lg px-8 h-14 rounded-md hover:text-white ">
-            See Our Work
+          See Our Work
           </button>
         </div>
         <div className="px-10">
