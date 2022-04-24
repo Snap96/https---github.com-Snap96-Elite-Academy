@@ -1,24 +1,104 @@
 [
     {
         "id": 1,
-        "courseName":"Computer Science",
-        "description":"The BSc (Computer Science) is a broad and intensive qualification that prepares you for work in a range of IT jobs in the rapidly changing industries of computer science, software and Information Systems (IS).",
-        "content":"You will gain in-depth theoretical knowledge as well as practical experience in the core areas of computer science such as information systems, database design, software development, programming, mathematics, algorithm design and project management. You will also develop practical skills with an emphasis on using, designing and managing operating systems, creating and maintain databases, and software programming and development. Within these subject areas, you will also cover topics such as human-computer interaction, internet technology, e-commerce and the ethical and security considerations needed by IT professionals.",
-        
-            "year1":["Advanced Information and Computer Skills"," Business English","Computer Skills","Computer Network and Security","Discrete Mathematics", "Introduction to Information Systems", "Introduction to Programming using C++", "Mathematics 1A", "Mathematics 1B", "Object-Oriented Programming using C++"],
-            "year2":["Database Management System", " Data Structures and Algorithms in C#", "Database Systems Design, Implementation, and Management","IT Project Management","Networking Technologies", "Network Security", "Raspberry PI Computer Architecture Essentials", "Object-Oriented Programming in C#", "Systems Analysis and Design"],
-            "year3":["Cloud Computing: A Practical Approach","Logistics and Supply Chain Management","Object Oriented Systems Analysis and Design"," Operating Systems", "Project", "Social Practices and Security","Soft Skills for IT Professionals","Software and Web Services using Java Programming","Web Development and e-Commerce","• Industry 4.0"],
-        "career":["Database Administration","IT Project Management","Systems Analysis and Design","Cloud Computing","Software Development","Technology Support Specialist","Network Administration","Software Programming"]
+        "courseName": "Computer Science",
+        "description": "The BSc (Computer Science) is a broad and intensive qualification that prepares you for work in a range of IT jobs in the rapidly changing industries of computer science, software and Information Systems (IS).",
+        "content": "You will gain in-depth theoretical knowledge as well as practical experience in the core areas of computer science such as information systems, database design, software development, programming, mathematics, algorithm design and project management. You will also develop practical skills with an emphasis on using, designing and managing operating systems, creating and maintain databases, and software programming and development. Within these subject areas, you will also cover topics such as human-computer interaction, internet technology, e-commerce and the ethical and security considerations needed by IT professionals.",
+        "year1": [
+            "Advanced Information and Computer Skills",
+            " Business English",
+            "Computer Skills",
+            "Computer Network and Security",
+            "Discrete Mathematics",
+            "Introduction to Information Systems",
+            "Introduction to Programming using C++",
+            "Mathematics 1A",
+            "Mathematics 1B",
+            "Object-Oriented Programming using C++"
+        ],
+        "year2": [
+            "Database Management System",
+            " Data Structures and Algorithms in C#",
+            "Database Systems Design, Implementation, and Management",
+            "IT Project Management",
+            "Networking Technologies",
+            "Network Security",
+            "Raspberry PI Computer Architecture Essentials",
+            "Object-Oriented Programming in C#",
+            "Systems Analysis and Design"
+        ],
+        "year3": [
+            "Cloud Computing: A Practical Approach",
+            "Logistics and Supply Chain Management",
+            "Object Oriented Systems Analysis and Design",
+            " Operating Systems",
+            "Project",
+            "Social Practices and Security",
+            "Soft Skills for IT Professionals",
+            "Software and Web Services using Java Programming",
+            "Web Development and e-Commerce",
+            "• Industry 4.0"
+        ],
+        "career": [
+            "Database Administration",
+            "IT Project Management",
+            "Systems Analysis and Design",
+            "Cloud Computing",
+            "Software Development",
+            "Technology Support Specialist",
+            "Network Administration",
+            "Software Programming"
+        ]
     },
     {
         "id": 2,
-        "courseName":"Health Science",
-        "description":"The BSc (Computer Science) is a broad and intensive qualification that prepares you for work in a range of IT jobs in the rapidly changing industries of computer science, software and Information Systems (IS).",
-        "content":"You will gain in-depth theoretical knowledge as well as practical experience in the core areas of computer science such as information systems, database design, software development, programming, mathematics, algorithm design and project management. You will also develop practical skills with an emphasis on using, designing and managing operating systems, creating and maintain databases, and software programming and development. Within these subject areas, you will also cover topics such as human-computer interaction, internet technology, e-commerce and the ethical and security considerations needed by IT professionals.",
-        
-            "year1":["Advanced Information and Computer Skills"," Business English","Computer Skills","Computer Network and Security","Discrete Mathematics", "Introduction to Information Systems", "Introduction to Programming using C++", "Mathematics 1A", "Mathematics 1B", "Object-Oriented Programming using C++"],
-            "year2":["Database Management System", " Data Structures and Algorithms in C#", "Database Systems Design, Implementation, and Management","IT Project Management","Networking Technologies", "Network Security", "Raspberry PI Computer Architecture Essentials", "Object-Oriented Programming in C#", "Systems Analysis and Design"],
-            "year3":["Cloud Computing: A Practical Approach","Logistics and Supply Chain Management","Object Oriented Systems Analysis and Design"," Operating Systems", "Project", "Social Practices and Security","Soft Skills for IT Professionals","Software and Web Services using Java Programming","Web Development and e-Commerce","• Industry 4.0"],
-        "career":["Database Administration","IT Project Management","Systems Analysis and Design","Cloud Computing","Software Development","Technology Support Specialist","Network Administration","Software Programming"]
+        "courseName": "Mobile App Development",
+        "description": "The BSc (Computer Science) is a broad and intensive qualification that prepares you for work in a range of IT jobs in the rapidly changing industries of computer science, software and Information Systems (IS).",
+        "content": "You will gain in-depth theoretical knowledge as well as practical experience in the core areas of computer science such as information systems, database design, software development, programming, mathematics, algorithm design and project management. You will also develop practical skills with an emphasis on using, designing and managing operating systems, creating and maintain databases, and software programming and development. Within these subject areas, you will also cover topics such as human-computer interaction, internet technology, e-commerce and the ethical and security considerations needed by IT professionals.",
+        "year1": [
+            "loerokdcvmoishfvzndvsfj",
+            " Business English",
+            "Computer Skills",
+            "Computer Network and Security",
+            "Discrete Mathematics",
+            "Introduction to Information Systems",
+            "Introduction to Programming using C++",
+            "Mathematics 1A",
+            "Mathematics 1B",
+            "Object-Oriented Programming using C++"
+        ],
+        "year2": [
+            "Database Management System",
+            " Data Structures and Algorithms in C#",
+            "Database Systems Design, Implementation, and Management",
+            "IT Project Management",
+            "Networking Technologies",
+            "Network Security",
+            "Raspberry PI Computer Architecture Essentials",
+            "Object-Oriented Programming in C#",
+            "Systems Analysis and Design"
+        ],
+        "year3": [
+            "Cloud Computing: A Practical Approach",
+            "Logistics and Supply Chain Management",
+            "Object Oriented Systems Analysis and Design",
+            " Operating Systems",
+            "Project",
+            "Social Practices and Security",
+            "Soft Skills for IT Professionals",
+            "Software and Web Services using Java Programming",
+            "Web Development and e-Commerce",
+            "• Industry 4.0"
+        ],
+        "career": [
+            "Database Administration",
+            "IT Project Management",
+            "Systems Analysis and Design",
+            "Cloud Computing",
+            "Software Development",
+            "Technology Support Specialist",
+            "Network Administration",
+            "Software Programming"
+        ]
     }
 ]
