@@ -100,5 +100,46 @@
             "Network Administration",
             "Software Programming"
         ]
+    },
+    {
+        "id": 3,
+        "courseName":"Robotics",
+        "description": "Robotics is an exciting branch of Information Technology that involves the conception, design, manufacture, and operation of robots. It primarily deals with the design, construction, operation, and use of robots, as well as computer systems for their control,sensory feedback, and information processing.",
+        "content":"Students will be taught the mechanics, planning and control of robots. They will also learn how to build and control autonomous robots using Python and Raspberry pi. This qualification is channelled toward students that are ready to use the above technologies for the development of machines that can substitute for humans and replicate human actions",
+        "year1":["Advanced Information and Computer Skills","Business English","Computer Network and Security","Computer Skills"," Human Computer Interaction"," Introduction to Information Systems","Introduction to Programming","Mathematics 1A", "Procedural Programming","Technical Writing and Communication"],
+        "year2":["Control Systems and Applications","Data Structures and Algorithms in Python","Database Management System","Internet Server Management","IT Project Management","Math Fundamentals for Robotics","Machine Learning Algorithms","Network Security","Systems Analysis and Design"],
+        "year3":["Cloud Computing: A Practical Approach","Industry 4.0","Logistics and Supply Chain Management","Operating Systems","Object Oriented System Analysis and Design","Project: Python Robotics","Soft Skills for IT Professionals","Web Development and e-Commerce"],
+        "career":["Database Administration","Database Management","IT Project Management","Robotics Programming","Systems Analysis and Design","Control Engineering"," Cloud Computing"]
+    },
+    {
+        "id": 4,
+        "courseName":"Data Science",
+        "description": "Be at the forefront of the future world of work. The specialised nature of this degree prepares you for work in many areas in the Information Technology industry that are related to data analysis, big data, statistical and predictive reporting",
+        "content":"Data Science is a branch of Information Technology that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured, semi-structured and unstructured data",
+        "year1":["Advanced Information and Computer Skills","Business English","Computer Network and Security","Computer Skills","Introduction to Information Systems","Introduction to Programming","Human Computer Interaction","Mathematics 1A","Procedural Programming","Technical Writing and Communication"],
+        "year2":["Data Structures and Algorithms in Python","Database Management System","Database System Design, Implementation and Management","Internet Server Management","Introduction to Statistics and Probability","IT Project Management","Machine Learning Algorithms","Network Security","Scienti c Computing in Python"," Systems Analysis and Design"],
+        "year3":["Cloud Computing: A Practical Approach","Industry 4.0","Logistics and Supply Chain Management","Object Oriented System Analysis and Design","Operating Systems","Project: Data Science","Soft Skills for IT Professionals","Web Development and e-Commerce"],
+        "career":["Database administration","Database management","IT project management","Systems analysis and design","Big data analysis","Data science","Cloud computing","Data Modelling"]
+    },
+    {
+        "id": 5,
+        "courseName":"Software Engineering",
+        "description": "The specialised nature of this degree prepares you for work in many areas in the Information Technology industry that are related to software development and management. Software engineering is a branch of Information Technology that is inclined towards the application of principles used in the field of engineering and computing, which usually deals with physical systems, to the design, development, testing, deployment and management of software systems",
+        "content":"Students will also develop practical skills with an emphasis on managing operating systems, designing software, analysing systems, programming, software development, database design and project management. This qualification is specially designed for students interested in designing and writing programs for computers or other electronic devices.",
+        "year1":["Advanced Information and Computer Skills","Business English","Computer Network and Security","Computer Skills","Human Computer Interaction","Introduction to Information Systems","Introduction to Programming","Mathematics 1A","Procedural Programming","Technical Writing and Communication"],
+        "year2":["Advanced Networking","Database System Design, Implementation and Management","Database Management System","Internet Server Management","IT Project Management","Network Security","Python Network Programming","Systems Analysis and Design","Programming in Java","Data Structures and Algorithms in Java"],
+        "year3":["Cloud Computing: A Practical Approach","Industry 4.0","Logistics and Supply Chain Management","Object Oriented System Analysis and Design","Operating Systems","Project: Mobile Application and Web Services","Soft Skills for IT Professionals","Web Development and e-Commerce","Enterprise Programming in Java"],
+        "career":[]
+    },
+    {
+        "id": 6,
+        "courseName":"Security and Network Engineering",
+        "description": "The specialised nature of this degree prepares you for work in many areas in the Information Technology industry that are related to Computer Networking, Network Analysis, Cybersecurity and IP Network Engineering",
+        "content":"Security and Network engineering is a branch of Information Technology that is inclined towards the application of principles used in the fieeld of engineering and computing, for the design and implementation of computer networks which focuses on high-level design and planning.",
+        "year1":["Advanced Information and Computer Skills","Business English","Computer Network and Security","Computer Skills","Human Computer Interaction","Introduction to Information Systems","Introduction to Programming","Mathematics 1A","Procedural Programming","Technical Writing and Communication"],
+        "year2":["Database Management System","Database System Design, Implementation and Management","Internet Server Management","IT Project Management","Network Security","Software Process, Architecture Design and Quality Assurance","Systems Analysis and Design"],
+        "year3":["Cloud Computing: A Practical Approach","Industry 4.0","Logistics and Supply Chain Management","Object Oriented System Analysis and Design","Operating Systems","Project: Cyber Security","Social Practices and Security","Soft Skills for IT Professionals","Web Development and e-Commerce"],
+        "career":["Database Administration"," Database Management","IT project Management","IP Network Engineering","Systems Analysis and Design","Hardware, Network and Cybersecurity","Cloud Computing"]
     }
+
 ]
