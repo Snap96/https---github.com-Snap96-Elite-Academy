@@ -1,11 +1,15 @@
 module.exports = {
-  purge: ["./pages/**/*.{js,ts,jsx,tsx}","./comps/**/*.{js,ts,jsx,tsx}"],
-  darkMode: false,
+  content: [
+    "./pages/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
+  ],
+  mode: "jit",
   theme: {
-    extend: {},
-  },
-  variant: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        Inter: ["Inter", "sans-serif"],
+      },
+    },
   },
   plugins: [],
-}
+};
